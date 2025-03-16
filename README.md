@@ -1,7 +1,7 @@
 ## Olá Me Chamo Mateus Nascimento e estou iniciando nesse mundo da programação!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusJn&show_icons=true&theme=transparent)
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusJn&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusJn&layout=compact&theme=transparent)
 
 
 <div style="display: inline_block"><br>
